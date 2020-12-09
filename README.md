@@ -1,4 +1,3 @@
 # BEDU-DA
-Se considero el dataset
-https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
-Se estara considerando en un primer momento 
+Se considero un dataset de Kaggle de RH 
+Se estara considerando en un primer momento un analisis descriptivo
